@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm chulaka sampath de silva</h1>
 <h3 align="center">A student of IJSE-Institute of software engineering institute</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chulakasam&label=Profile%20views&color=0e75b6&style=flat" alt="chulakasam" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chulakasam" alt="chulakasam" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chulakasam&show_icons=true&locale=en&layout=compact" alt="chulakasam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chulakasam&show_icons=true&locale=en" alt="chulakasam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chulakasam&" alt="chulakasam" /></p>
