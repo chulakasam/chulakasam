@@ -34,7 +34,7 @@
 ### 📌 **About Me**
 - 🔭 Currently working on **Green Shadow Management System**  
 - 💡 Exploring **React, Spring Boot, TypeScript, and Mobile Development**  
-- 💻 All my projects are available at **[My Portfolio](https://chulakasam.github.io/professional-portfolio/)**  
+- 💻 All my projects are available at **( https://chulakasam.github.io/Portfolio-React/)**  
 - 📫 Reach me at **sampathchulaka33872@gmail.com**  
 - 🎯 Passionate about **Full-Stack Development & UI/UX**  
 
