@@ -1,11 +1,21 @@
-🚀 Chulaka Sampath De Silva | Software Engineer Trainee
+👋 Hello there!
 
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-<h1>Hi 👋, I'm <span style="color:#0077b6;">Chulaka Sampath De Silva</span></h1>
-<h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077b6&center=true&vCenter=true&width=435&lines=Software+Engineer+Trainee+at+Ceyentra+Technologies" alt="Typing SVG" /></h3>
+<div align="center">
+<a href="https://github.com/chulakasam">
+<img src="https://komarev.com/ghpvc/?username=chulakasam&style=for-the-badge" alt=""/>
+</a>
 </div>
 
-<h3 align="center">Graduate of IJSE</h3>
+<div align="center">
+<h2>I'm <span style="color: #0077b6; font-weight: bold;">Chulaka Sampath De Silva</span></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077b6&center=true&vCenter=true&width=450&lines=Software+Engineer+Trainee;Full-Stack+Developer;Passionate+about+Cloud+Solutions" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+<p>Software Engineer Trainee at <a href="https://ceyentra.com/" target="_blank">Ceyentra Technologies</a> | Graduate of IJSE</p>
+</div>
 📌 About Me
 
     🎓 Graduate from IJSE - Institute of Software Engineering
@@ -22,34 +32,16 @@
 
 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/chulaka-sampath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://fb.com/chulaka.sampath" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://github.com/chulakasam" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 🛠 Tech Stack
 
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</p>
-✍️ Quote of the Day
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,figma,html,java,js,mysql,mongodb,nodejs,python,react,spring,ts,git,github,docker,kubernetes,aws" />
+</div>
 📊 GitHub Stats
 
 <p align="center">
@@ -60,9 +52,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulakasam&layout=compact&theme=highcontrast" width="48%"/>
 </p>
+✨ Quote of the Day
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/chulakasam/chulakasam/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 <p align="center">💻 Always Learning | Building Scalable & Innovative Solutions 🚀</p>
